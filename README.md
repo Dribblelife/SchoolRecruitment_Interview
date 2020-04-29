@@ -9,8 +9,11 @@
 
 #### 目录
 * [网络协议](https://github.com/KeKe-Li/golang-interview-questions/blob/master/src/chapter01/golang.01.md)
+* [计算机网络基础知识](https://github.com/KeKe-Li/golang-interview-questions/blob/master/src/chapter08/golang.01.md)
 * [数据结构](https://github.com/KeKe-Li/golang-interview-questions/blob/master/src/chapter02/golang.01.md)
 * [算法](https://github.com/KeKe-Li/golang-interview-questions/blob/master/src/chapter03/golang.01.md)
+* [LeetCode刷题](https://leetcode-cn.com/problemset/all/)
+* [操作系统解析](https://github.com/KeKe-Li/golang-interview-questions/blob/master/src/chapter06/golang.01.md)
 * [数据库](https://github.com/KeKe-Li/golang-interview-questions/blob/master/src/chapter04/golang.01.md)
 * [Golang面试问题汇总](https://github.com/KeKe-Li/golang-interview-questions/blob/master/src/chapter05/golang.01.md)
 * [操作系统解析](https://github.com/KeKe-Li/golang-interview-questions/blob/master/src/chapter06/golang.01.md)
