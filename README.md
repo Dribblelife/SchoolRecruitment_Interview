@@ -3,7 +3,7 @@
 
 <p align='left'>
 <img src="https://img.shields.io/badge/build-passing-brightgreen.svg">
-<a href="https://www.zhihu.com/people/sencoed.com/activities"><img src="https://img.icons8.com/material-two-tone/24/000000/csdn.png"/>"></a>
+<a href="https://www.zhihu.com/people/sencoed.com/activities"><img src="https://img.icons8.com/material-two-tone/24/000000/csdn.png"></a>
 </p>
 
 非常好的学习资料，持续学习充电ING~
